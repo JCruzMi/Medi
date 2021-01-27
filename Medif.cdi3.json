@@ -1,0 +1,207 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "ParamFisicas"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "ParamDeformFisicas"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breathing"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Folder3",
+			"Name": "Folder3"
+		},
+		{
+			"Id": "cejas",
+			"Name": "cejas"
+		},
+		{
+			"Id": "Part",
+			"Name": "Pesta�aD"
+		},
+		{
+			"Id": "ojoD",
+			"Name": "ojoD"
+		},
+		{
+			"Id": "Part2",
+			"Name": "Pesta�aI"
+		},
+		{
+			"Id": "ojoI",
+			"Name": "ojoI"
+		},
+		{
+			"Id": "mejillas",
+			"Name": "mejillas"
+		},
+		{
+			"Id": "boca",
+			"Name": "boca"
+		},
+		{
+			"Id": "cara",
+			"Name": "cara"
+		},
+		{
+			"Id": "chaqueta",
+			"Name": "chaqueta"
+		},
+		{
+			"Id": "cuello",
+			"Name": "cuello"
+		},
+		{
+			"Id": "cuelloChaqeta",
+			"Name": "cuelloChaqeta"
+		},
+		{
+			"Id": "chaquta",
+			"Name": "chaquta"
+		},
+		{
+			"Id": "Folder4",
+			"Name": "Folder4"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeLOpen",
+			"ParamEyeROpen"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowRX",
+			"ParamBrowRY"
+		],
+		[
+			"ParamBrowLX",
+			"ParamBrowLY"
+		]
+	]
+}
